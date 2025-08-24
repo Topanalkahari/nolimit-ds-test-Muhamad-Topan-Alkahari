@@ -183,15 +183,13 @@ Positive     198     1801
 ## 🚀 Deployment
 
 ### Streamlit Cloud
-1. Access at: `https://your-app.streamlit.app`
+1. Access at: `https://indonesia-sentiment-review.streamlit.app/`
 
 
 ### Local Deployment
 ```bash
 # Run Streamlit app locally
 streamlit run app/streamlit_app.py
-
-# Access at: http://localhost:8501
 ```
 
 
