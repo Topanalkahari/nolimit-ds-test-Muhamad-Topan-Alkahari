@@ -1,29 +1,29 @@
 # Core Dependencies
-numpy==1.24.3
-pandas==2.0.3
-matplotlib==3.7.2
-seaborn==0.12.2
+numpy
+pandas
+matplotlib
+seaborn
 
 # Machine Learning
-scikit-learn==1.3.0
-sentence-transformers==2.2.2
-datasets==2.14.4
-faiss-cpu==1.7.4
+scikit-learn
+sentence-transformers
+datasets
+faiss-cpu
 
 # NLP
-nltk==3.8.1
+nltk
 
 # Web App
-streamlit==1.25.0
-flask==2.3.2
+streamlit
+flask
 
 # Development
-jupyter==1.0.0
-pytest==7.4.0
+jupyter
+pytest
 
 # Utilities
-tqdm==4.65.0
-python-dotenv==1.0.0
+tqdm
+python-dotenv
 
 # Visualization
-plotly==5.15.0
+plotly
