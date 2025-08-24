@@ -5,15 +5,15 @@
 A comprehensive sentiment analysis solution for Indonesian e-commerce product reviews using state-of-the-art NLP models and embeddings.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Models Used](#models-used)
-- [Results](#results)
-- [Deployment](#deployment)
-- [License](#license)
+- [Overview](#-overview)
+- [Dataset](#-dataset)
+- [Architecture](#-architecture)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Models Used](#-models-used)
+- [Results](#-results)
+- [Deployment](#-deployment)
+- [License](#-license)
 
 ## 🎯 Overview
 
