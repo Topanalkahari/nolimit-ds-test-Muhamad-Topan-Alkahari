@@ -45,7 +45,7 @@ This project implements a **Classification Task** focusing on sentiment analysis
 
 ## 🏗️ Architecture
 
-![Pipeline Flowchart](flowchart/flowchart.pdf)
+![Pipeline Flowchart](flowchart/Flowchart.pdf)
 
 ### Pipeline Components:
 1. **Data Loading**: Hugging Face Datasets integration
